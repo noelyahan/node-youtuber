@@ -1,17 +1,20 @@
 {
-  "name": "youtube-ultimate",
+  "name": "node-youtuber",
   "version": "1.0.0",
   "description": "Ultimate youtube search plus video info API",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/noelyahan/youtube-ultimate.git"
+    "url": "http://github.com/noelyahan/node-youtuber.git"
   },
   "keywords": [
-    "youtube"
+    "youtube",
+    "node",
+    "api"
   ],
   "dependencies": {
-    "cheerio": "~0.19.0"
+    "cheerio": "~0.19.0",
+    "request": "*",
   },
   "author": {
     "name": "Noel Yahan",
