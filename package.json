@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "cheerio": "~0.19.0",
-    "request": "*",
+    "request": "*"
   },
   "author": {
     "name": "Noel Yahan",
